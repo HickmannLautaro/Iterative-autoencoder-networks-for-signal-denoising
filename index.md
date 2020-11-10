@@ -8,6 +8,11 @@ Comparisons presented/talked on the 09/11
 
 [Old Comparisons](Export/Comparisson_all.html)  
 
+Possible modified noise distributions
+
+[Noise distributions](Noise_dist.html)  
+
+
 
 ### Bachelor thesis on Iterative autoencoder networks for signal denoising
 
