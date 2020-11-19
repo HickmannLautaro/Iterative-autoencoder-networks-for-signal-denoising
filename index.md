@@ -1,6 +1,9 @@
 
 ## Welcome to my GitHub Page on Iterative-autoencoder-networks-for-signal-denoising
 
+New renoising and comparisons after the 13/11  
+[New Comparisons](Export/17_11_Comparisson_all.html)  
+
 New metrics and comparisons after the 09/11  
 [New Comparisons](New_comparissons.html)  
 
