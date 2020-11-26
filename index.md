@@ -1,7 +1,7 @@
 
 ## Welcome to my GitHub Page on Iterative-autoencoder-networks-for-signal-denoising
 
-Same metrics and comparisons on the Fashion MNIST dataset
+Same metrics and comparisons on the Fashion MNIST dataset  
 [Fashion MNIST](Export/Comparisson_all_fashion.html)  
 
 New renoising and comparisons after the 13/11  
