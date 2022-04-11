@@ -25,7 +25,3 @@ Possible modified noise distributions
 ### Bachelor thesis on Iterative autoencoder networks for signal denoising
 
 [Bachelor Thesis](Hickmann_Bachelor_Arbeit.pdf)  
-
-You can use the [editor on GitHub](https://github.com/HickmannLautaro/Iterative-autoencoder-networks-for-signal-denoising/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
